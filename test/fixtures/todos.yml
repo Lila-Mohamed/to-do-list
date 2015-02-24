@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  grocerylist: MyString
+  notes: MyText
+  due: 2015-02-23
+  done: false
+
+two:
+  grocerylist: MyString
+  notes: MyText
+  due: 2015-02-23
+  done: false
